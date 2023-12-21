@@ -1,4 +1,4 @@
-<h1 align='center'>Список задач в Telegram на NestJS</h1>
+<h1 align='center'><b>ToDo-шка</b> в Telegram на NestJS</h1>
 <p align="center">
 <img src="https://nestjs.com/img/logo-small.svg" width="100" alt="Nest Logo" />
 </p>
