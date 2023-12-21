@@ -13,7 +13,7 @@
 
 ---
 
-<details><summary>СПОЙЛЕР!!!</summary>
+
 
 Чтобы открыть проект Вам понадобится `.env` файл, который лежит в `.gitignore`
 
@@ -24,7 +24,7 @@
 Установите зависимости:
 
 ```bash
-yarn install
+yarn
 ```
 
 Чтобы запустить проект:
@@ -38,7 +38,7 @@ yarn install
 - Установите <a href='https://www.postgresql.org/download/'>PostgreSQL</a>
 - Установите <a href='https://www.pgadmin.org/download/'>pgAdmin 4</a>
 - Чтобы получить `.env` файл напишите мне в Telegram:
-<a href="https://t.me/chr04iri" align="left">
+<a href="https://t.me/kasperrr123" align="left">
 <img src="https://img.shields.io/badge/Telegram-0a0c10?style=for-the-badge&logo=telegram&logoColor=white" alt="tg">
 </a>
 </details>
